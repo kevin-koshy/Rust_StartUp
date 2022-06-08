@@ -1,5 +1,8 @@
-mod vars;
-
+/*mod vars;
+mod types;*/
+// mod strings;
+// mod tuples;
+mod arrays;
 fn main() {
-    vars::run();
+    arrays::run();
 }
